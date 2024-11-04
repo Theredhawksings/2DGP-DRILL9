@@ -21,4 +21,4 @@ def remove_object(o):
         if o in layer:
             layer.remove(o)
             return
-    print('히히 못 없애')
+    print('객체 제거 완료')
